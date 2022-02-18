@@ -148,4 +148,7 @@ body {
     grid-row: 6 / span 2;
     grid-column: 1 / span 1;
   }
+  .container nav ul li .btn {
+    padding: 10px 14px;
+  }
 }
